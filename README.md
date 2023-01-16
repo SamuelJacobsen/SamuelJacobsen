@@ -1,6 +1,6 @@
 ### Hello I’m Samuel👋
 - 🌱 I’m currently learning c#
-- - 📫 Email: Samueljacobsen@alunos.utfpr.edu.br
+- 📫 Email: Samueljacobsen@alunos.utfpr.edu.br
 
 <div align="center">
   <a href="https://github.com/SamuelJacobsen">
