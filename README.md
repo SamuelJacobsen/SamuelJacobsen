@@ -1,5 +1,5 @@
 ### Hello I’m Samuel👋
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning c#, java, react Native, HTML, CSS, Js
 - 📫 Email: Samueljacobsen@alunos.utfpr.edu.br
 
 <div align="center">
