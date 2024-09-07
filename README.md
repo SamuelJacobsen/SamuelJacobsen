@@ -1,4 +1,4 @@
-v# 👋 Hello, I'm Samuel!
+# 👋 Hello, I'm Samuel!
 
 Welcome to my GitHub profile! I'm a passionate developer with a focus on a range of technologies. Here's a bit more about me:
 
