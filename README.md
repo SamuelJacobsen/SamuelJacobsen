@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on a range
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,java,cs,dotnet,html,css,js,androidstudio,react" />
+    <img src="https://skillicons.dev/icons?i=github,git,java,cs,dotnet,html,css,js,androidstudio,react,aws" />
   </a>
 </div>
 
