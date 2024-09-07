@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Samuel!
+v# 👋 Hello, I'm Samuel!
 
 Welcome to my GitHub profile! I'm a passionate developer with a focus on a range of technologies. Here's a bit more about me:
 
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on a range
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,java,cs,dotnet,html,css,js,androidstudio,react,aws" />
+    <img src="https://skillicons.dev/icons?i=github,git,java,cs,dotnet,html,css,js,androidstudio,react,django,docker,nestjs,nodejs,ruby,ts" />
   </a>
 </div>
 
