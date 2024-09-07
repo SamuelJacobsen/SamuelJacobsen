@@ -4,7 +4,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on a range
 
 ## 🚀 About Me
 
-- 🌱 **Currently learning**: Java, React Native, HTML, CSS, JavaScript
+- 🌱 **Currently Learning**:
+  - **Algorithms**: Delving into algorithms to improve problem-solving skills and efficiency.
+  - **Next.js**: Enhancing expertise in server-side rendering and static site generation.
+  - **Node.js**: Deepening knowledge in asynchronous programming and backend development.
+  - **Ruby**: Exploring Ruby for web development and scripting.
+  - **AI & Machine Learning**: Expanding understanding of artificial intelligence and its applications.
 - 🎯 **Goals**: To master full-stack development and contribute to exciting projects.
 - 📫 **Email**: [Samueljacobsen@alunos.utfpr.edu.br](mailto:Samueljacobsen@alunos.utfpr.edu.br)
 
@@ -15,6 +20,26 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on a range
     <img src="https://skillicons.dev/icons?i=github,git,java,cs,dotnet,html,css,js,androidstudio,react" />
   </a>
 </div>
+
+### 💼 **Currently Working With**
+- **Web Development**:
+  - **Next.js**: Building fast, modern web applications with React.
+  - **React**: Creating interactive user interfaces.
+  - **Express.js**: Developing robust APIs and server-side applications.
+  - **Node.js**: Powering scalable network applications.
+- **Backend & Databases**:
+  - **NestJS**: Building efficient, reliable, and scalable server-side applications.
+  - **MongoDB**: NoSQL database for flexible, schema-less data storage.
+  - **PostgreSQL**: Powerful, open-source relational database.
+- **Cloud & DevOps**:
+  - **AWS**: Leveraging cloud services for scalable infrastructure.
+- **Programming Languages**:
+  - **Python**: Utilizing for data analysis, scripting, and web development.
+- **Automation & Tools**:
+  - **Flowise**: Workflow automation for efficient process management.
+  - **n8n**: Extensible workflow automation tool.
+  - **Akkio**: Simplifying AI and machine learning tasks.
+
 
 ## 📈 GitHub Stats
 
